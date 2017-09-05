@@ -9,6 +9,11 @@
 		fr = Non
 		ja = いいえ
 
+	[cancel]
+		en = Cancel
+		fr = Termine
+		ja = いいえ
+
 [[Errors]]
 	[path_not_found_error]
 		en = The file '%@' could not be found.

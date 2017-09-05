@@ -1,0 +1,7 @@
+{
+  "src": {
+    "raster": "assets/images-src4x",
+    "vector": "assets/vector"
+  },
+  "tmp": "assets/tmp"
+}

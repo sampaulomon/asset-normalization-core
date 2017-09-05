@@ -1,0 +1,33 @@
+[[General]]
+	[yes]
+		en = Yes
+		es = Sí
+		fr = Oui
+		ja = はい
+	[no]
+		en = No
+		fr = Non
+		ja = いいえ
+
+[[Errors]]
+	[path_not_found_error]
+		en = The file '%@' could not be found.
+		tags = app1,app6
+		comment = An error describing when a path on the filesystem could not be found.
+	[network_unavailable_error]
+		en = The network is currently unavailable.
+		tags = app1
+		comment = An error describing when the device can not connect to the internet.
+	[dismiss_error]
+		ref = yes
+		en = Dismiss
+
+[[Escaping Example]]
+	[list_item_separator]
+		en = `, `
+		tags = mytag
+		comment = A string that should be placed between multiple items in a list. For example: Red, Green, Blue
+	[grave_accent_quoted_string]
+		en = ``%@``
+		tags = myothertag
+		comment = This string will evaluate to `%@`.

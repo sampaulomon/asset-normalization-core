@@ -1,0 +1,28 @@
+{
+  "base": "src/app",
+  "root": "res",
+  "defaultFlavor": "main",
+  "vectorRoot": "drawable",
+  "sizes": [
+    {
+      "percentage": 25,
+      "path": "drawable-mdpi"
+    },
+    {
+      "percentage": 37.5,
+      "path": "drawable-hdpi"
+    },
+    {
+      "percentage": 50,
+      "path": "drawable-xhdpi"
+    },
+    {
+      "percentage": 75,
+      "path": "drawable-xxhdpi"
+    },
+    {
+      "percentage": 100,
+      "path": "drawable-xxxhdpi"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "root": "Assets.xcassets",
+  "imageSetSuffix": ".imageset",
+  "sizes": [
+    {
+      "percentage": 25,
+      "suffix": "",
+      "scale": "1x"
+    },
+    {
+      "percentage": 50,
+      "suffix": "@2x",
+      "scale": "2x"
+    },
+    {
+      "percentage": 75,
+      "suffix": "@3x",
+      "scale": "3x"
+    }
+  ],
+  "contents": {
+    "info": {
+      "version": 1,
+      "author": "xcode"
+    }
+  },
+  "contentsFileName": "Contents.json"
+}
